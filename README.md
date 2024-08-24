@@ -5,7 +5,7 @@
 
 I'm a passionate developer and current student at Moringa School, deeply enthusiastic about web development and machine learning. I thrive on creating cutting-edge solutions and continuously expanding my knowledge of new technologies.
 
-![Profile views](https://gpvc.arturio.dev/yourusername)
+
 
 ## 🛠️ Skills and Tools
 
