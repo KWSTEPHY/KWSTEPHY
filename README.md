@@ -1,6 +1,7 @@
 # Hey there! 👋
 
-I'm Stephy Kamau! 😄
+![Rotating Messages](https://your-link-to-gif-here.com)
+ 😄
 
 I'm a passionate developer and current student at Moringa School, deeply enthusiastic about web development and machine learning. I thrive on creating cutting-edge solutions and continuously expanding my knowledge of new technologies.
 
